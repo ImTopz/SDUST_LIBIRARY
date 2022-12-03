@@ -27,7 +27,7 @@ class BookSeat:
             "Accept" : "*/*",
             "OperateTime" : str(int(time.time())),
             "Referer" : "https://servicewechat.com/wxd5685b630fcaf8d4/11/page-frame.html",
-            "Token"  : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIyMDIwMDEwNjEwMjgiLCJuYmYiOjE2NjkyNTgzODksImV4cCI6MTY2OTI5NDM4OSwiaXNzIjoiWURUIiwiYXVkIjoiTW9iaWxlIn0.iXnYBdklYJO7BzZy12wcSPRlug0sROrEc3nnZbTLltI",
+            "Token"  : "",
             "UserId" : Common.loadId(),
             "Connection" : "keep-alive",
             "User-Agent" : "Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E217 MicroMessenger/6.8.0(0x16080000) NetType/WIFI Language/en Branch/Br_trunk MiniProgramEnv/Mac"
